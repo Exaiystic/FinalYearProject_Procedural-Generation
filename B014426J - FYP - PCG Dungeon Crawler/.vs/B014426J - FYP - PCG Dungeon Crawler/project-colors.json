@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a0ceb576-a661-e7a7-239a-25000a523415": {
+      "ProjectGuid": "a0ceb576-a661-e7a7-239a-25000a523415",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "76b5cea0-61a6-a7e7-239a-25000a523415": {
+      "ProjectGuid": "76b5cea0-61a6-a7e7-239a-25000a523415",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 1
+    },
+    "19b72312-dae4-92b2-fd37-3329d5dae0c0": {
+      "ProjectGuid": "19b72312-dae4-92b2-fd37-3329d5dae0c0",
+      "DisplayName": "UnityEngine.UI",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "8ff0689a-31b5-e49c-f0aa-b2dfb544e363": {
+      "ProjectGuid": "8ff0689a-31b5-e49c-f0aa-b2dfb544e363",
+      "DisplayName": "Assembly-CSharp-Editor",
+      "ColorIndex": 3
+    },
+    "eddc1d87-e660-ee5d-3097-4907d8706fdc": {
+      "ProjectGuid": "eddc1d87-e660-ee5d-3097-4907d8706fdc",
+      "DisplayName": "Unity.InputSystem",
+      "ColorIndex": 4
+    },
+    "cb87f7ee-6a6d-f444-4f3e-c45f02a6c277": {
+      "ProjectGuid": "cb87f7ee-6a6d-f444-4f3e-c45f02a6c277",
+      "DisplayName": "Unity.RenderPipelines.Universal.Runtime",
+      "ColorIndex": 5
+    },
+    "d2379cbe-78ca-724c-5918-17a53f39c0a5": {
+      "ProjectGuid": "d2379cbe-78ca-724c-5918-17a53f39c0a5",
+      "DisplayName": "Unity.2D.Tilemap.Editor",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
